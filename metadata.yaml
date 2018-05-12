@@ -1,0 +1,36 @@
+_repo: An-Ethical-Problem--13-Or-Sidelights-upon-Scientific-Experimentation-on-Man-and-Animals_20222
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Leffingwell, Albert
+    birthdate: 1845
+    deathdate: 1916
+    gutenberg_agent_id: '9166'
+    url: http://www.gutenberg.org/2009/agents/9166
+    wikipedia: http://en.wikipedia.org/wiki/Albert_Leffingwell
+description: Cover; An Ethical Prolbem Or, Sidelights upon Scientific Experimentation
+  on Man and Animals; Copyright; PREFACE; PREFACE TO THE SECOND EDITION; CONTENTS;
+  INTRODUCTION; CHAPTER I; WHAT IS VIVISECTION?; CHAPTER II; ON CERTAIN MISTAKES OF
+  SCIENTISTS; CHAPTER III; AN EIGHTEENTH-CENTURY VIVISECTOR; CHAPTER IV; MAGENDIE
+  AND HIS CONTEMPORARIES; CHAPTER V; A VIVISECTOR'S REMORSE; CHAPTER VI; IS TORTURE
+  JUSTIFIED BY UTILITY?; CHAPTER VII; THE COMMENCEMENT OF AGITATION; CHAPTER VIII;
+  THE ATTAINMENT OF LEGAL REGULATION; CHAPTER IX; THE GREAT PROTESTANT AGAINST VIVISECTION
+  CRUELTY; CHAPTER X.
+gutenberg_issued: '2006-12-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20222'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Medicine, Experimental'
+- !lcc 'HV'
+- !lcsh 'Vivisection'
+title: "An Ethical Problem\r\nOr, Sidelights upon Scientific Experimentation on Man\
+  \ and Animals"
+url: http://www.gutenberg.org/ebooks/20222
